@@ -1,0 +1,11 @@
+<svg id="icon" data-name="ppicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1053.02 886.93">
+  <defs>
+    <style>.cls-1,.cls-3{fill:#000100;}.cls-1{stroke:#fff;stroke-miterlimit:10;stroke-width:12px;}.cls-2{fill:#fff;}</style>
+  </defs>
+  <title>pp</title>
+  <path class="cls-1" d="M928.22,77.33L591.5,216.57,462.1,952.26h130l48.14-272L977,541l81.26-463.67h-130Zm-67,380.73L664.73,539.33,708.48,290.6,905,209.33Z" transform="translate(-12.35 -71.33)"/>
+  <path class="cls-1" d="M485.61,77.33L148.89,216.57,19.49,952.26h130l48.14-272L534.35,541,615.61,77.33h-130Zm-67,380.73L222.12,539.33,265.87,290.6l196.53-81.27Z" transform="translate(-12.35 -71.33)"/>
+  <polygon class="cls-1" points="979.15 386.73 94.07 386.73 123.28 219.27 1008.5 219.27 979.15 386.73"/>
+  <polygon class="cls-2" points="398.56 393.23 430.3 212.77 703.87 212.77 672.13 393.23 398.56 393.23"/>
+  <path class="cls-3" d="M708.48,290.6L679,458.07H418.65L448.1,290.6H708.48m15.49-13H437.19l-1.89,10.75L405.84,455.81l-2.68,15.25H689.93l1.89-10.75,29.45-167.46L724,277.6h0Z" transform="translate(-12.35 -71.33)"/>
+</svg>
